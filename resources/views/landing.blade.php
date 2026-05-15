@@ -19,7 +19,7 @@
     <div class="hero-light"></div>
 
     <div class="hero-content">
-        <h1 class="hero-title">Where Elegance Begins</h1>
+        <h1 class="hero-title">Where Elegance Beginning</h1>
         <p class="hero-subtitle">Where Timeless Elegance Meets an Unforgettable Signature Scent</p>
 
         <div class="hero-buttons">
